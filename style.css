@@ -1,16 +1,25 @@
 
-  body
-  {
+  body{
      background: 	#cccccc
   }
 
-p {
+  #banner {
+    width: 100%;
+  }
+
+  h1{
     text-align: center
   }
 
-  strong 
+  p{
+    text-align: center
+  }
   
-  {
+  #missao {
+    font-size: 20px
+  }
+
+  strong {
     color: darkred; 
   }
 
